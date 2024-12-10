@@ -1,0 +1,13 @@
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\bin\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.exe
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\bin\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.deps.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\bin\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.runtimeconfig.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\bin\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.runtimeconfig.dev.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\bin\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\bin\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\obj\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\obj\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.AssemblyInfoInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\obj\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.AssemblyInfo.cs
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\obj\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.csproj.CoreCompileInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\obj\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\obj\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\MyFirstProgramOnCsharp\MyFirstProgramOnCsharp\obj\Debug\netcoreapp3.1\MyFirstProgramOnCsharp.genruntimeconfig.cache

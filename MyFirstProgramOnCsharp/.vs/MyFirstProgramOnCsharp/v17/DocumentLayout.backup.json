@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\MyFirstProgramOnCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A690F9-B098-4F5D-9E66-F170CAC88449}|MyFirstProgramOnCsharp\\MyFirstProgramOnCsharp.csproj|c:\\users\\shankar shanmugam\\source\\repos\\myfirstprogramoncsharp\\myfirstprogramoncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A690F9-B098-4F5D-9E66-F170CAC88449}|MyFirstProgramOnCsharp\\MyFirstProgramOnCsharp.csproj|solutionrelative:myfirstprogramoncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\MyFirstProgramOnCsharp\\MyFirstProgramOnCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstProgramOnCsharp\\Program.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\MyFirstProgramOnCsharp\\MyFirstProgramOnCsharp\\Program.cs*",
+              "RelativeToolTip": "MyFirstProgramOnCsharp\\Program.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:26:42.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
