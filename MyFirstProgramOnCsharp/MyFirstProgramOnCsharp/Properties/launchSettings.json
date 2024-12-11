@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyFirstProgramOnCsharp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"shankar\" \"shanmugam\""
+    }
+  }
+}

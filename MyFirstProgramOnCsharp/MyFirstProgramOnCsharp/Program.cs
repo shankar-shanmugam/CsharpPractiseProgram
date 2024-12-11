@@ -6,15 +6,35 @@ namespace MyFirstProgramOnCsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ENTER A NUMBER");
-            int number = int.Parse(Console.ReadLine());
+            //  Console.WriteLine("ENTER A NUMBER");
+            // int number = int.Parse(Console.ReadLine());
             //Console.WriteLine("Hello World!");
             //FindPositiveOrNegative(-6);
             //PrintNumbersFrom1ToN(40);
             // FindSumOfDigitOfNumber(495);
             //  Console.WriteLine(ReverseNumber(number));
-            Console.WriteLine(FindFactorialNumber(number));
+            //  Console.WriteLine(FindFactorialNumber(number));
 
+            //DisplayNames d= new DisplayNames();
+            // 1)  d.PrintNames();
+
+            // 2)  ProblemOnNumbers.SumAndDiffOfSquareOfTwoNumbers();
+            // 3)  StringOperation.UpperAndLower();
+
+            // 4) StringOperation.PrintNumberAsString();
+
+            //  Console.WriteLine(args.Length);
+            // 5)  StringOperation.CountNamePartsAndDisplay(args);
+
+            // 6)  ProblemOnNumbers.AverageOnRandomNumbers();
+
+            // 7)  Circle.AreaAndPerimeter();
+
+          // 10)  ProblemOnNumbers.FindMultipleOf7Not5();
+
+          // 9)  ExecutionTime.FindExecutionTimeOfProgram();
+
+          // 10)  FindDate.FindNextDate();
         }
 
         static void FindPositiveOrNegative(int number)
@@ -80,7 +100,7 @@ namespace MyFirstProgramOnCsharp
     }
     class Calculator
     {
-        static void main(String[] args)
+        static void Main(String[] args)
         {
             Console.WriteLine("Enter the number :");
             int num1 = int.Parse(Console.ReadLine());
@@ -98,9 +118,9 @@ namespace MyFirstProgramOnCsharp
             return num1 + num2;
         }
 
-        int Substract(int num1, int num2) 
+        int Substract(int num1, int num2)
         {
-            return  (num1 - num2);
+            return (num1 - num2);
         }
 
         int Multiply(int num1, int num2)
@@ -114,8 +134,8 @@ namespace MyFirstProgramOnCsharp
         }
 
         int Modulo(int num1, int num2)
-        { 
-        return num1 % num2;
+        {
+            return num1 % num2;
         }
 
 
