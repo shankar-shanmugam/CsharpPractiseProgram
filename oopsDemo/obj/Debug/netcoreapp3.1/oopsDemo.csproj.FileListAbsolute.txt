@@ -1,0 +1,14 @@
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\bin\Debug\netcoreapp3.1\oopsDemo.exe
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\bin\Debug\netcoreapp3.1\oopsDemo.deps.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\bin\Debug\netcoreapp3.1\oopsDemo.runtimeconfig.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\bin\Debug\netcoreapp3.1\oopsDemo.runtimeconfig.dev.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\bin\Debug\netcoreapp3.1\oopsDemo.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\bin\Debug\netcoreapp3.1\oopsDemo.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\obj\Debug\netcoreapp3.1\oopsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\obj\Debug\netcoreapp3.1\oopsDemo.AssemblyInfoInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\obj\Debug\netcoreapp3.1\oopsDemo.AssemblyInfo.cs
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\obj\Debug\netcoreapp3.1\oopsDemo.csproj.CoreCompileInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\obj\Debug\netcoreapp3.1\oopsDemo.sourcelink.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\obj\Debug\netcoreapp3.1\oopsDemo.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\obj\Debug\netcoreapp3.1\oopsDemo.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\oopsDemo\obj\Debug\netcoreapp3.1\oopsDemo.genruntimeconfig.cache

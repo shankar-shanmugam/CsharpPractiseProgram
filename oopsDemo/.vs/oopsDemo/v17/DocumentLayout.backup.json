@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|c:\\users\\shankar shanmugam\\source\\repos\\oopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|c:\\users\\shankar shanmugam\\source\\repos\\oopsdemo\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|c:\\users\\shankar shanmugam\\source\\repos\\oopsdemo\\ireturnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|solutionrelative:ireturnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|c:\\users\\shankar shanmugam\\source\\repos\\oopsdemo\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|c:\\users\\shankar shanmugam\\source\\repos\\oopsdemo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|c:\\users\\shankar shanmugam\\source\\repos\\oopsdemo\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712869E1-E9A5-4477-99A3-770F0D169C68}|oopsDemo.csproj|solutionrelative:iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:38:40.815Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:41:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReturnable.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\IReturnable.cs",
+              "RelativeDocumentMoniker": "IReturnable.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\IReturnable.cs",
+              "RelativeToolTip": "IReturnable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:28:24.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBorrowable.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\IBorrowable.cs",
+              "RelativeDocumentMoniker": "IBorrowable.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\IBorrowable.cs",
+              "RelativeToolTip": "IBorrowable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:26:54.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\Items.cs",
+              "RelativeDocumentMoniker": "Items.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\Items.cs",
+              "RelativeToolTip": "Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:29:29.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\oopsDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:19:44.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
