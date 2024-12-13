@@ -1,0 +1,14 @@
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.exe
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.deps.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.runtimeconfig.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.runtimeconfig.dev.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.AssemblyInfoInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.AssemblyInfo.cs
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.sourcelink.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.genruntimeconfig.cache

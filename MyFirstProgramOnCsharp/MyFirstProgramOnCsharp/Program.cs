@@ -4,7 +4,7 @@ namespace MyFirstProgramOnCsharp
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(String[] args)
         {
             //  Console.WriteLine("ENTER A NUMBER");
             // int number = int.Parse(Console.ReadLine());
@@ -13,7 +13,7 @@ namespace MyFirstProgramOnCsharp
             //PrintNumbersFrom1ToN(40);
             // FindSumOfDigitOfNumber(495);
             //  Console.WriteLine(ReverseNumber(number));
-            //  Console.WriteLine(FindFactorialNumber(number));
+            // 11) Console.WriteLine(FindFactorialNumber(number));
 
             //DisplayNames d= new DisplayNames();
             // 1)  d.PrintNames();
@@ -30,13 +30,28 @@ namespace MyFirstProgramOnCsharp
 
             // 7)  Circle.AreaAndPerimeter();
 
-          // 10)  ProblemOnNumbers.FindMultipleOf7Not5();
+            // 10)  ProblemOnNumbers.FindMultipleOf7Not5();
 
-          // 9)  ExecutionTime.FindExecutionTimeOfProgram();
+            // 9)  ExecutionTime.FindExecutionTimeOfProgram();
 
-          // 10)  FindDate.FindNextDate();
+            // 10)  FindDate.FindNextDate();
+
+
+            //  StudentGrade.FindGrade();
+            // 12)  PrintNumbers(1);
+
+            // 13) quadratic equation
+            // 14)  QuadraticEquation.FindRoots();
+
+            NumberFactor.FindNumberString();
         }
 
+        static void PrintNumbers(int num)
+        {
+            if (num > 100) return;
+            Console.WriteLine(num);
+            PrintNumbers(num + 1);
+        }
         static void FindPositiveOrNegative(int number)
         {
 
@@ -52,7 +67,6 @@ namespace MyFirstProgramOnCsharp
 
             Console.ReadLine();
         }
-
         static void PrintNumbersFrom1ToN(int number)
         {
             for (int i = 1; i <= number; i++)
@@ -60,7 +74,6 @@ namespace MyFirstProgramOnCsharp
                 Console.WriteLine(i + " ");
             }
         }
-
         static void FindSumOfDigitOfNumber(int number)
         {
             int sum = 0;

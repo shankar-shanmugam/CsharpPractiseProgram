@@ -39,7 +39,30 @@ namespace MyFirstProgramOnCsharp
             }
             Console.WriteLine($"total parts appended in one variable is {stringBuilder}");
         }
+        static void StringPresence()
+        {
+            Console.Write("Enter a string: ");
+            string input = Console.ReadLine();
 
+            bool hasA = input.Contains('a');
+            bool hasE = input.Contains('e');
+            bool hasP = input.Contains('p');
 
+            if (hasA && hasE && hasP)
+            {
+                Console.WriteLine("All Present");
+            }
+            else if (hasA || hasE || hasP)
+            {
+                Console.WriteLine("One or more - Present");
+            }
+            else
+            {
+                Console.WriteLine("None Present");
+            }
+        }
     }
 }
+
+
+
