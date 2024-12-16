@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\GenericsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4392D94D-D571-41B8-863F-AB4C68394109}|GenericsDemo.csproj|c:\\users\\shankar shanmugam\\source\\repos\\genericsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4392D94D-D571-41B8-863F-AB4C68394109}|GenericsDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4392D94D-D571-41B8-863F-AB4C68394109}|GenericsDemo.csproj|c:\\users\\shankar shanmugam\\source\\repos\\genericsdemo\\genericwithdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4392D94D-D571-41B8-863F-AB4C68394109}|GenericsDemo.csproj|solutionrelative:genericwithdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4392D94D-D571-41B8-863F-AB4C68394109}|GenericsDemo.csproj|c:\\users\\shankar shanmugam\\source\\repos\\genericsdemo\\genericwithoutdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4392D94D-D571-41B8-863F-AB4C68394109}|GenericsDemo.csproj|solutionrelative:genericwithoutdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericWithDemo.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\GenericsDemo\\GenericWithDemo.cs",
+              "RelativeDocumentMoniker": "GenericWithDemo.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\GenericsDemo\\GenericWithDemo.cs",
+              "RelativeToolTip": "GenericWithDemo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:42:45.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericWithoutDemo.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\GenericsDemo\\GenericWithoutDemo.cs",
+              "RelativeDocumentMoniker": "GenericWithoutDemo.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\GenericsDemo\\GenericWithoutDemo.cs",
+              "RelativeToolTip": "GenericWithoutDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:23:51.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\GenericsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHANKAR SHANMUGAM\\source\\repos\\GenericsDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:23:13.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

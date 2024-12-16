@@ -1,0 +1,14 @@
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\bin\Debug\netcoreapp3.1\ReviewProblem.exe
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\bin\Debug\netcoreapp3.1\ReviewProblem.deps.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\bin\Debug\netcoreapp3.1\ReviewProblem.runtimeconfig.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\bin\Debug\netcoreapp3.1\ReviewProblem.runtimeconfig.dev.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\bin\Debug\netcoreapp3.1\ReviewProblem.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\bin\Debug\netcoreapp3.1\ReviewProblem.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\obj\Debug\netcoreapp3.1\ReviewProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\obj\Debug\netcoreapp3.1\ReviewProblem.AssemblyInfoInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\obj\Debug\netcoreapp3.1\ReviewProblem.AssemblyInfo.cs
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\obj\Debug\netcoreapp3.1\ReviewProblem.csproj.CoreCompileInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\obj\Debug\netcoreapp3.1\ReviewProblem.sourcelink.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\obj\Debug\netcoreapp3.1\ReviewProblem.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\obj\Debug\netcoreapp3.1\ReviewProblem.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\ReviewProblem\obj\Debug\netcoreapp3.1\ReviewProblem.genruntimeconfig.cache

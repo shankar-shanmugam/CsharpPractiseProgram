@@ -1,0 +1,14 @@
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.exe
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.deps.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.dev.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfo.cs
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.sourcelink.json
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\SHANKAR SHANMUGAM\source\repos\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.genruntimeconfig.cache
